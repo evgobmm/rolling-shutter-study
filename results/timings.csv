@@ -1,0 +1,1081 @@
+method,repeat,scene,frame,milliseconds,backend
+vdrsc,1,Scene51,6,592.9196,CPU
+vdrsc,1,Scene51,7,601.991,CPU
+vdrsc,1,Scene51,8,627.2462,CPU
+vdrsc,1,Scene51,9,677.2046,CPU
+vdrsc,1,Scene51,10,666.8739,CPU
+vdrsc,1,Scene51,11,668.4503,CPU
+vdrsc,1,Scene51,12,791.1572,CPU
+vdrsc,1,Scene51,13,767.0303,CPU
+vdrsc,1,Scene52,18,648.6148,CPU
+vdrsc,1,Scene52,19,669.5826,CPU
+vdrsc,1,Scene52,20,655.4682,CPU
+vdrsc,1,Scene52,21,636.3202,CPU
+vdrsc,1,Scene52,22,644.2732,CPU
+vdrsc,1,Scene52,23,638.088,CPU
+vdrsc,1,Scene52,24,615.859,CPU
+vdrsc,1,Scene52,25,626.3604,CPU
+vdrsc,1,Scene53,30,675.7508,CPU
+vdrsc,1,Scene53,31,684.4488,CPU
+vdrsc,1,Scene53,32,624.6033,CPU
+vdrsc,1,Scene53,33,619.8118,CPU
+vdrsc,1,Scene53,34,684.4199,CPU
+vdrsc,1,Scene53,35,659.0308,CPU
+vdrsc,1,Scene53,36,626.0002,CPU
+vdrsc,1,Scene53,37,658.1509,CPU
+vdrsc,1,Scene54,6,661.488,CPU
+vdrsc,1,Scene54,7,650.51,CPU
+vdrsc,1,Scene54,8,620.761,CPU
+vdrsc,1,Scene54,9,630.135,CPU
+vdrsc,1,Scene54,10,692.2691,CPU
+vdrsc,1,Scene54,11,674.4351,CPU
+vdrsc,1,Scene54,12,644.9379,CPU
+vdrsc,1,Scene54,13,671.5584,CPU
+vdrsc,1,Scene55,18,630.8957,CPU
+vdrsc,1,Scene55,19,601.5054,CPU
+vdrsc,1,Scene55,20,583.3836,CPU
+vdrsc,1,Scene55,21,583.7957,CPU
+vdrsc,1,Scene55,22,537.4228,CPU
+vdrsc,1,Scene55,23,582.6768,CPU
+vdrsc,1,Scene55,24,604.7457,CPU
+vdrsc,1,Scene55,25,626.8699,CPU
+vdrsc,1,Scene56,30,720.3622,CPU
+vdrsc,1,Scene56,31,685.7769,CPU
+vdrsc,1,Scene56,32,698.4436,CPU
+vdrsc,1,Scene56,33,656.6886,CPU
+vdrsc,1,Scene56,34,655.0564,CPU
+vdrsc,1,Scene56,35,610.5532,CPU
+vdrsc,1,Scene56,36,602.8965,CPU
+vdrsc,1,Scene56,37,595.1638,CPU
+vdrsc,1,Scene57,6,595.8361,CPU
+vdrsc,1,Scene57,7,579.8648,CPU
+vdrsc,1,Scene57,8,609.9457,CPU
+vdrsc,1,Scene57,9,629.0704,CPU
+vdrsc,1,Scene57,10,622.988,CPU
+vdrsc,1,Scene57,11,692.1464,CPU
+vdrsc,1,Scene57,12,667.241,CPU
+vdrsc,1,Scene57,13,712.7445,CPU
+vdrsc,1,Scene58,18,604.8918,CPU
+vdrsc,1,Scene58,19,673.5448,CPU
+vdrsc,1,Scene58,20,671.8505,CPU
+vdrsc,1,Scene58,21,676.2469,CPU
+vdrsc,1,Scene58,22,664.502,CPU
+vdrsc,1,Scene58,23,657.4887,CPU
+vdrsc,1,Scene58,24,785.3308,CPU
+vdrsc,1,Scene58,25,877.5006,CPU
+vdrsc,1,Scene59,30,876.8352,CPU
+vdrsc,1,Scene59,31,795.0158,CPU
+vdrsc,1,Scene59,32,738.149,CPU
+vdrsc,1,Scene59,33,767.3515,CPU
+vdrsc,1,Scene59,34,704.0628,CPU
+vdrsc,1,Scene59,35,704.6337,CPU
+vdrsc,1,Scene59,36,643.701,CPU
+vdrsc,1,Scene59,37,643.6349,CPU
+vdrsc,1,Scene60,6,650.9675,CPU
+vdrsc,1,Scene60,7,651.1608,CPU
+vdrsc,1,Scene60,8,663.6382,CPU
+vdrsc,1,Scene60,9,658.1921,CPU
+vdrsc,1,Scene60,10,676.9948,CPU
+vdrsc,1,Scene60,11,678.6131,CPU
+vdrsc,1,Scene60,12,639.8374,CPU
+vdrsc,1,Scene60,13,649.7845,CPU
+vdrsc,1,Scene61,18,561.3939,CPU
+vdrsc,1,Scene61,19,542.3233,CPU
+vdrsc,1,Scene61,20,546.868,CPU
+vdrsc,1,Scene61,21,511.4178,CPU
+vdrsc,1,Scene61,22,520.3889,CPU
+vdrsc,1,Scene61,23,470.4003,CPU
+vdrsc,1,Scene61,24,489.7343,CPU
+vdrsc,1,Scene61,25,512.3969,CPU
+vdrsc,1,Scene62,30,564.8019,CPU
+vdrsc,1,Scene62,31,551.6774,CPU
+vdrsc,1,Scene62,32,539.0078,CPU
+vdrsc,1,Scene62,33,515.8659,CPU
+vdrsc,1,Scene62,34,482.7756,CPU
+vdrsc,1,Scene62,35,593.5961,CPU
+vdrsc,1,Scene62,36,598.565,CPU
+vdrsc,1,Scene62,37,602.3953,CPU
+vdrsc,1,Scene63,6,761.8177,CPU
+vdrsc,1,Scene63,7,680.3845,CPU
+vdrsc,1,Scene63,8,660.5543,CPU
+vdrsc,1,Scene63,9,677.3775,CPU
+vdrsc,1,Scene63,10,649.4597,CPU
+vdrsc,1,Scene63,11,673.9612,CPU
+vdrsc,1,Scene63,12,651.4176,CPU
+vdrsc,1,Scene63,13,655.1035,CPU
+vdrsc,1,Scene64,18,698.2432,CPU
+vdrsc,1,Scene64,19,709.3814,CPU
+vdrsc,1,Scene64,20,675.064,CPU
+vdrsc,1,Scene64,21,690.8302,CPU
+vdrsc,1,Scene64,22,691.8538,CPU
+vdrsc,1,Scene64,23,688.531,CPU
+vdrsc,1,Scene64,24,672.2193,CPU
+vdrsc,1,Scene64,25,690.2756,CPU
+vdrsc,1,Scene65,30,623.0406,CPU
+vdrsc,1,Scene65,31,656.1801,CPU
+vdrsc,1,Scene65,32,620.2051,CPU
+vdrsc,1,Scene65,33,653.6763,CPU
+vdrsc,1,Scene65,34,591.7277,CPU
+vdrsc,1,Scene65,35,609.055,CPU
+vdrsc,1,Scene65,36,601.6045,CPU
+vdrsc,1,Scene65,37,608.1654,CPU
+jamnet,1,Scene51,6,639.5789,DirectML
+jamnet,1,Scene51,7,632.4099,DirectML
+jamnet,1,Scene51,8,606.5246,DirectML
+jamnet,1,Scene51,9,607.9229,DirectML
+jamnet,1,Scene51,10,606.5024,DirectML
+jamnet,1,Scene51,11,606.0118,DirectML
+jamnet,1,Scene51,12,620.08,DirectML
+jamnet,1,Scene51,13,629.1391,DirectML
+jamnet,1,Scene52,18,625.2197,DirectML
+jamnet,1,Scene52,19,652.8324,DirectML
+jamnet,1,Scene52,20,624.2439,DirectML
+jamnet,1,Scene52,21,615.2007,DirectML
+jamnet,1,Scene52,22,621.077,DirectML
+jamnet,1,Scene52,23,630.3358,DirectML
+jamnet,1,Scene52,24,622.4035,DirectML
+jamnet,1,Scene52,25,611.5836,DirectML
+jamnet,1,Scene53,30,629.5728,DirectML
+jamnet,1,Scene53,31,643.9485,DirectML
+jamnet,1,Scene53,32,642.0593,DirectML
+jamnet,1,Scene53,33,668.4952,DirectML
+jamnet,1,Scene53,34,639.0882,DirectML
+jamnet,1,Scene53,35,681.4082,DirectML
+jamnet,1,Scene53,36,658.0498,DirectML
+jamnet,1,Scene53,37,619.6733,DirectML
+jamnet,1,Scene54,6,632.4555,DirectML
+jamnet,1,Scene54,7,643.7689,DirectML
+jamnet,1,Scene54,8,641.4379,DirectML
+jamnet,1,Scene54,9,630.8696,DirectML
+jamnet,1,Scene54,10,642.9741,DirectML
+jamnet,1,Scene54,11,638.586,DirectML
+jamnet,1,Scene54,12,662.9644,DirectML
+jamnet,1,Scene54,13,640.6811,DirectML
+jamnet,1,Scene55,18,643.025,DirectML
+jamnet,1,Scene55,19,640.8505,DirectML
+jamnet,1,Scene55,20,647.9054,DirectML
+jamnet,1,Scene55,21,649.0404,DirectML
+jamnet,1,Scene55,22,664.1487,DirectML
+jamnet,1,Scene55,23,649.2549,DirectML
+jamnet,1,Scene55,24,654.9144,DirectML
+jamnet,1,Scene55,25,698.1375,DirectML
+jamnet,1,Scene56,30,656.5921,DirectML
+jamnet,1,Scene56,31,665.5339,DirectML
+jamnet,1,Scene56,32,665.5157,DirectML
+jamnet,1,Scene56,33,659.4743,DirectML
+jamnet,1,Scene56,34,648.4417,DirectML
+jamnet,1,Scene56,35,641.2286,DirectML
+jamnet,1,Scene56,36,665.4824,DirectML
+jamnet,1,Scene56,37,669.5756,DirectML
+jamnet,1,Scene57,6,676.0131,DirectML
+jamnet,1,Scene57,7,649.7823,DirectML
+jamnet,1,Scene57,8,657.2438,DirectML
+jamnet,1,Scene57,9,649.5035,DirectML
+jamnet,1,Scene57,10,660.8051,DirectML
+jamnet,1,Scene57,11,688.8175,DirectML
+jamnet,1,Scene57,12,663.2816,DirectML
+jamnet,1,Scene57,13,646.4804,DirectML
+jamnet,1,Scene58,18,674.7562,DirectML
+jamnet,1,Scene58,19,656.1457,DirectML
+jamnet,1,Scene58,20,657.5315,DirectML
+jamnet,1,Scene58,21,642.4209,DirectML
+jamnet,1,Scene58,22,669.8152,DirectML
+jamnet,1,Scene58,23,649.3942,DirectML
+jamnet,1,Scene58,24,656.1124,DirectML
+jamnet,1,Scene58,25,659.1695,DirectML
+jamnet,1,Scene59,30,664.0811,DirectML
+jamnet,1,Scene59,31,669.1907,DirectML
+jamnet,1,Scene59,32,686.1906,DirectML
+jamnet,1,Scene59,33,671.4454,DirectML
+jamnet,1,Scene59,34,664.0198,DirectML
+jamnet,1,Scene59,35,675.3524,DirectML
+jamnet,1,Scene59,36,674.1069,DirectML
+jamnet,1,Scene59,37,681.3322,DirectML
+jamnet,1,Scene60,6,659.8317,DirectML
+jamnet,1,Scene60,7,677.6676,DirectML
+jamnet,1,Scene60,8,705.4323,DirectML
+jamnet,1,Scene60,9,695.0219,DirectML
+jamnet,1,Scene60,10,715.4304,DirectML
+jamnet,1,Scene60,11,664.0297,DirectML
+jamnet,1,Scene60,12,723.6821,DirectML
+jamnet,1,Scene60,13,726.8476,DirectML
+jamnet,1,Scene61,18,710.0166,DirectML
+jamnet,1,Scene61,19,669.2286,DirectML
+jamnet,1,Scene61,20,671.3028,DirectML
+jamnet,1,Scene61,21,651.3039,DirectML
+jamnet,1,Scene61,22,677.3023,DirectML
+jamnet,1,Scene61,23,674.4901,DirectML
+jamnet,1,Scene61,24,663.599,DirectML
+jamnet,1,Scene61,25,671.7412,DirectML
+jamnet,1,Scene62,30,658.8165,DirectML
+jamnet,1,Scene62,31,659.4972,DirectML
+jamnet,1,Scene62,32,662.2443,DirectML
+jamnet,1,Scene62,33,679.8743,DirectML
+jamnet,1,Scene62,34,674.7054,DirectML
+jamnet,1,Scene62,35,654.1131,DirectML
+jamnet,1,Scene62,36,672.6738,DirectML
+jamnet,1,Scene62,37,659.1751,DirectML
+jamnet,1,Scene63,6,665.316,DirectML
+jamnet,1,Scene63,7,643.6341,DirectML
+jamnet,1,Scene63,8,672.7857,DirectML
+jamnet,1,Scene63,9,666.1967,DirectML
+jamnet,1,Scene63,10,663.9518,DirectML
+jamnet,1,Scene63,11,675.6868,DirectML
+jamnet,1,Scene63,12,677.865,DirectML
+jamnet,1,Scene63,13,666.9384,DirectML
+jamnet,1,Scene64,18,665.3636,DirectML
+jamnet,1,Scene64,19,657.7251,DirectML
+jamnet,1,Scene64,20,655.0126,DirectML
+jamnet,1,Scene64,21,657.031,DirectML
+jamnet,1,Scene64,22,684.0375,DirectML
+jamnet,1,Scene64,23,675.332,DirectML
+jamnet,1,Scene64,24,664.5227,DirectML
+jamnet,1,Scene64,25,672.8227,DirectML
+jamnet,1,Scene65,30,672.269,DirectML
+jamnet,1,Scene65,31,662.2692,DirectML
+jamnet,1,Scene65,32,654.7222,DirectML
+jamnet,1,Scene65,33,683.0336,DirectML
+jamnet,1,Scene65,34,664.8811,DirectML
+jamnet,1,Scene65,35,666.7901,DirectML
+jamnet,1,Scene65,36,693.438,DirectML
+jamnet,1,Scene65,37,704.7224,DirectML
+dfrsc-2f,1,Scene51,6,1055.1273,DirectML
+dfrsc-2f,1,Scene51,7,1215.1034,DirectML
+dfrsc-2f,1,Scene51,8,1080.4934,DirectML
+dfrsc-2f,1,Scene51,9,1132.0485,DirectML
+dfrsc-2f,1,Scene51,10,1151.2724,DirectML
+dfrsc-2f,1,Scene51,11,1181.4129,DirectML
+dfrsc-2f,1,Scene51,12,1154.2755,DirectML
+dfrsc-2f,1,Scene51,13,1116.386,DirectML
+dfrsc-2f,1,Scene52,18,1042.2845,DirectML
+dfrsc-2f,1,Scene52,19,1003.3312,DirectML
+dfrsc-2f,1,Scene52,20,1010.3313,DirectML
+dfrsc-2f,1,Scene52,21,1009.0473,DirectML
+dfrsc-2f,1,Scene52,22,1018.2643,DirectML
+dfrsc-2f,1,Scene52,23,999.5104,DirectML
+dfrsc-2f,1,Scene52,24,1002.3084,DirectML
+dfrsc-2f,1,Scene52,25,981.9461,DirectML
+dfrsc-2f,1,Scene53,30,991.9666,DirectML
+dfrsc-2f,1,Scene53,31,985.6931,DirectML
+dfrsc-2f,1,Scene53,32,1028.9874,DirectML
+dfrsc-2f,1,Scene53,33,962.9932,DirectML
+dfrsc-2f,1,Scene53,34,1000.002,DirectML
+dfrsc-2f,1,Scene53,35,954.801,DirectML
+dfrsc-2f,1,Scene53,36,995.4878,DirectML
+dfrsc-2f,1,Scene53,37,973.015,DirectML
+dfrsc-2f,1,Scene54,6,973.1474,DirectML
+dfrsc-2f,1,Scene54,7,965.7095,DirectML
+dfrsc-2f,1,Scene54,8,987.7927,DirectML
+dfrsc-2f,1,Scene54,9,992.4649,DirectML
+dfrsc-2f,1,Scene54,10,991.6326,DirectML
+dfrsc-2f,1,Scene54,11,967.8218,DirectML
+dfrsc-2f,1,Scene54,12,1001.8701,DirectML
+dfrsc-2f,1,Scene54,13,985.5966,DirectML
+dfrsc-2f,1,Scene55,18,977.169,DirectML
+dfrsc-2f,1,Scene55,19,995.3054,DirectML
+dfrsc-2f,1,Scene55,20,1005.808,DirectML
+dfrsc-2f,1,Scene55,21,998.4732,DirectML
+dfrsc-2f,1,Scene55,22,958.3108,DirectML
+dfrsc-2f,1,Scene55,23,997.5147,DirectML
+dfrsc-2f,1,Scene55,24,971.4099,DirectML
+dfrsc-2f,1,Scene55,25,985.9744,DirectML
+dfrsc-2f,1,Scene56,30,987.1798,DirectML
+dfrsc-2f,1,Scene56,31,1026.6809,DirectML
+dfrsc-2f,1,Scene56,32,962.8951,DirectML
+dfrsc-2f,1,Scene56,33,979.2914,DirectML
+dfrsc-2f,1,Scene56,34,958.5608,DirectML
+dfrsc-2f,1,Scene56,35,972.9343,DirectML
+dfrsc-2f,1,Scene56,36,994.5378,DirectML
+dfrsc-2f,1,Scene56,37,1003.4352,DirectML
+dfrsc-2f,1,Scene57,6,944.4427,DirectML
+dfrsc-2f,1,Scene57,7,981.9786,DirectML
+dfrsc-2f,1,Scene57,8,986.1988,DirectML
+dfrsc-2f,1,Scene57,9,977.2764,DirectML
+dfrsc-2f,1,Scene57,10,977.3692,DirectML
+dfrsc-2f,1,Scene57,11,997.1485,DirectML
+dfrsc-2f,1,Scene57,12,986.0316,DirectML
+dfrsc-2f,1,Scene57,13,1046.6178,DirectML
+dfrsc-2f,1,Scene58,18,1104.3423,DirectML
+dfrsc-2f,1,Scene58,19,1094.5821,DirectML
+dfrsc-2f,1,Scene58,20,1163.2601,DirectML
+dfrsc-2f,1,Scene58,21,1093.3376,DirectML
+dfrsc-2f,1,Scene58,22,990.3562,DirectML
+dfrsc-2f,1,Scene58,23,998.2054,DirectML
+dfrsc-2f,1,Scene58,24,984.4994,DirectML
+dfrsc-2f,1,Scene58,25,968.5652,DirectML
+dfrsc-2f,1,Scene59,30,995.6297,DirectML
+dfrsc-2f,1,Scene59,31,971.1149,DirectML
+dfrsc-2f,1,Scene59,32,966.7916,DirectML
+dfrsc-2f,1,Scene59,33,967.2751,DirectML
+dfrsc-2f,1,Scene59,34,981.1848,DirectML
+dfrsc-2f,1,Scene59,35,1015.1171,DirectML
+dfrsc-2f,1,Scene59,36,970.425,DirectML
+dfrsc-2f,1,Scene59,37,1023.7795,DirectML
+dfrsc-2f,1,Scene60,6,1081.377,DirectML
+dfrsc-2f,1,Scene60,7,1025.7851,DirectML
+dfrsc-2f,1,Scene60,8,1032.6678,DirectML
+dfrsc-2f,1,Scene60,9,1017.5483,DirectML
+dfrsc-2f,1,Scene60,10,1039.2636,DirectML
+dfrsc-2f,1,Scene60,11,1028.3463,DirectML
+dfrsc-2f,1,Scene60,12,1042.0032,DirectML
+dfrsc-2f,1,Scene60,13,1074.0557,DirectML
+dfrsc-2f,1,Scene61,18,1061.8304,DirectML
+dfrsc-2f,1,Scene61,19,1054.023,DirectML
+dfrsc-2f,1,Scene61,20,1019.6299,DirectML
+dfrsc-2f,1,Scene61,21,1154.887,DirectML
+dfrsc-2f,1,Scene61,22,1053.0601,DirectML
+dfrsc-2f,1,Scene61,23,1132.2633,DirectML
+dfrsc-2f,1,Scene61,24,1118.8552,DirectML
+dfrsc-2f,1,Scene61,25,1195.2454,DirectML
+dfrsc-2f,1,Scene62,30,1096.5459,DirectML
+dfrsc-2f,1,Scene62,31,1078.7556,DirectML
+dfrsc-2f,1,Scene62,32,1099.763,DirectML
+dfrsc-2f,1,Scene62,33,1096.6528,DirectML
+dfrsc-2f,1,Scene62,34,1141.2586,DirectML
+dfrsc-2f,1,Scene62,35,1064.1222,DirectML
+dfrsc-2f,1,Scene62,36,1122.5256,DirectML
+dfrsc-2f,1,Scene62,37,1092.2835,DirectML
+dfrsc-2f,1,Scene63,6,1122.4765,DirectML
+dfrsc-2f,1,Scene63,7,1161.0847,DirectML
+dfrsc-2f,1,Scene63,8,1126.3565,DirectML
+dfrsc-2f,1,Scene63,9,1199.4497,DirectML
+dfrsc-2f,1,Scene63,10,1806.8107,DirectML
+dfrsc-2f,1,Scene63,11,3012.5885,DirectML
+dfrsc-2f,1,Scene63,12,2151.7414,DirectML
+dfrsc-2f,1,Scene63,13,1437.1564,DirectML
+dfrsc-2f,1,Scene64,18,1506.6797,DirectML
+dfrsc-2f,1,Scene64,19,1462.5544,DirectML
+dfrsc-2f,1,Scene64,20,1368.8106,DirectML
+dfrsc-2f,1,Scene64,21,1457.0126,DirectML
+dfrsc-2f,1,Scene64,22,1472.253,DirectML
+dfrsc-2f,1,Scene64,23,1378.175,DirectML
+dfrsc-2f,1,Scene64,24,1408.527,DirectML
+dfrsc-2f,1,Scene64,25,1414.7219,DirectML
+dfrsc-2f,1,Scene65,30,1772.906,DirectML
+dfrsc-2f,1,Scene65,31,1548.1733,DirectML
+dfrsc-2f,1,Scene65,32,1668.2009,DirectML
+dfrsc-2f,1,Scene65,33,1538.413,DirectML
+dfrsc-2f,1,Scene65,34,1230.6796,DirectML
+dfrsc-2f,1,Scene65,35,1294.4461,DirectML
+dfrsc-2f,1,Scene65,36,1231.1127,DirectML
+dfrsc-2f,1,Scene65,37,1245.7502,DirectML
+uni-rife,1,Scene51,6,582.1068,DirectML
+uni-rife,1,Scene51,7,553.4117,DirectML
+uni-rife,1,Scene51,8,530.6677,DirectML
+uni-rife,1,Scene51,9,542.5444,DirectML
+uni-rife,1,Scene51,10,572.2659,DirectML
+uni-rife,1,Scene51,11,511.2084,DirectML
+uni-rife,1,Scene51,12,627.2462,DirectML
+uni-rife,1,Scene51,13,587.0961,DirectML
+uni-rife,1,Scene52,18,582.238,DirectML
+uni-rife,1,Scene52,19,601.5751,DirectML
+uni-rife,1,Scene52,20,604.1767,DirectML
+uni-rife,1,Scene52,21,583.8766,DirectML
+uni-rife,1,Scene52,22,598.1646,DirectML
+uni-rife,1,Scene52,23,601.6572,DirectML
+uni-rife,1,Scene52,24,536.3502,DirectML
+uni-rife,1,Scene52,25,555.0679,DirectML
+uni-rife,1,Scene53,30,573.1677,DirectML
+uni-rife,1,Scene53,31,534.2499,DirectML
+uni-rife,1,Scene53,32,529.8202,DirectML
+uni-rife,1,Scene53,33,560.0388,DirectML
+uni-rife,1,Scene53,34,619.6865,DirectML
+uni-rife,1,Scene53,35,565.2327,DirectML
+uni-rife,1,Scene53,36,589.248,DirectML
+uni-rife,1,Scene53,37,556.0273,DirectML
+uni-rife,1,Scene54,6,528.2789,DirectML
+uni-rife,1,Scene54,7,532.814,DirectML
+uni-rife,1,Scene54,8,564.4832,DirectML
+uni-rife,1,Scene54,9,524.7515,DirectML
+uni-rife,1,Scene54,10,558.3293,DirectML
+uni-rife,1,Scene54,11,545.7059,DirectML
+uni-rife,1,Scene54,12,508.1546,DirectML
+uni-rife,1,Scene54,13,515.9228,DirectML
+uni-rife,1,Scene55,18,554.9396,DirectML
+uni-rife,1,Scene55,19,564.4512,DirectML
+uni-rife,1,Scene55,20,582.1466,DirectML
+uni-rife,1,Scene55,21,554.3022,DirectML
+uni-rife,1,Scene55,22,546.147,DirectML
+uni-rife,1,Scene55,23,558.4954,DirectML
+uni-rife,1,Scene55,24,589.2339,DirectML
+uni-rife,1,Scene55,25,520.0629,DirectML
+uni-rife,1,Scene56,30,525.5726,DirectML
+uni-rife,1,Scene56,31,527.4651,DirectML
+uni-rife,1,Scene56,32,565.037,DirectML
+uni-rife,1,Scene56,33,544.8933,DirectML
+uni-rife,1,Scene56,34,512.5946,DirectML
+uni-rife,1,Scene56,35,514.6067,DirectML
+uni-rife,1,Scene56,36,577.547,DirectML
+uni-rife,1,Scene56,37,587.6055,DirectML
+uni-rife,1,Scene57,6,514.9826,DirectML
+uni-rife,1,Scene57,7,574.2777,DirectML
+uni-rife,1,Scene57,8,532.2126,DirectML
+uni-rife,1,Scene57,9,565.5048,DirectML
+uni-rife,1,Scene57,10,540.1435,DirectML
+uni-rife,1,Scene57,11,603.731,DirectML
+uni-rife,1,Scene57,12,564.8907,DirectML
+uni-rife,1,Scene57,13,575.74,DirectML
+uni-rife,1,Scene58,18,515.66,DirectML
+uni-rife,1,Scene58,19,755.6947,DirectML
+uni-rife,1,Scene58,20,601.5118,DirectML
+uni-rife,1,Scene58,21,569.5624,DirectML
+uni-rife,1,Scene58,22,577.9906,DirectML
+uni-rife,1,Scene58,23,552.5485,DirectML
+uni-rife,1,Scene58,24,749.9132,DirectML
+uni-rife,1,Scene58,25,713.3196,DirectML
+uni-rife,1,Scene59,30,527.9139,DirectML
+uni-rife,1,Scene59,31,527.6266,DirectML
+uni-rife,1,Scene59,32,548.0344,DirectML
+uni-rife,1,Scene59,33,579.5761,DirectML
+uni-rife,1,Scene59,34,508.6975,DirectML
+uni-rife,1,Scene59,35,556.7274,DirectML
+uni-rife,1,Scene59,36,538.4175,DirectML
+uni-rife,1,Scene59,37,532.776,DirectML
+uni-rife,1,Scene60,6,561.5132,DirectML
+uni-rife,1,Scene60,7,551.3045,DirectML
+uni-rife,1,Scene60,8,534.4925,DirectML
+uni-rife,1,Scene60,9,550.558,DirectML
+uni-rife,1,Scene60,10,577.4963,DirectML
+uni-rife,1,Scene60,11,558.0163,DirectML
+uni-rife,1,Scene60,12,536.8571,DirectML
+uni-rife,1,Scene60,13,512.9021,DirectML
+uni-rife,1,Scene61,18,511.5224,DirectML
+uni-rife,1,Scene61,19,532.206,DirectML
+uni-rife,1,Scene61,20,561.2388,DirectML
+uni-rife,1,Scene61,21,514.3377,DirectML
+uni-rife,1,Scene61,22,513.6727,DirectML
+uni-rife,1,Scene61,23,537.032,DirectML
+uni-rife,1,Scene61,24,556.7322,DirectML
+uni-rife,1,Scene61,25,512.2753,DirectML
+uni-rife,1,Scene62,30,522.817,DirectML
+uni-rife,1,Scene62,31,564.6881,DirectML
+uni-rife,1,Scene62,32,496.3372,DirectML
+uni-rife,1,Scene62,33,541.5307,DirectML
+uni-rife,1,Scene62,34,590.1836,DirectML
+uni-rife,1,Scene62,35,543.9711,DirectML
+uni-rife,1,Scene62,36,499.8322,DirectML
+uni-rife,1,Scene62,37,529.0686,DirectML
+uni-rife,1,Scene63,6,528.639,DirectML
+uni-rife,1,Scene63,7,547.5561,DirectML
+uni-rife,1,Scene63,8,633.0044,DirectML
+uni-rife,1,Scene63,9,562.8629,DirectML
+uni-rife,1,Scene63,10,524.1567,DirectML
+uni-rife,1,Scene63,11,551.5375,DirectML
+uni-rife,1,Scene63,12,586.3028,DirectML
+uni-rife,1,Scene63,13,571.2674,DirectML
+uni-rife,1,Scene64,18,602.4796,DirectML
+uni-rife,1,Scene64,19,545.9058,DirectML
+uni-rife,1,Scene64,20,537.0497,DirectML
+uni-rife,1,Scene64,21,567.926,DirectML
+uni-rife,1,Scene64,22,547.8573,DirectML
+uni-rife,1,Scene64,23,536.1646,DirectML
+uni-rife,1,Scene64,24,528.6145,DirectML
+uni-rife,1,Scene64,25,549.1469,DirectML
+uni-rife,1,Scene65,30,543.234,DirectML
+uni-rife,1,Scene65,31,564.8851,DirectML
+uni-rife,1,Scene65,32,566.5727,DirectML
+uni-rife,1,Scene65,33,551.3406,DirectML
+uni-rife,1,Scene65,34,534.2414,DirectML
+uni-rife,1,Scene65,35,526.6819,DirectML
+uni-rife,1,Scene65,36,561.8305,DirectML
+uni-rife,1,Scene65,37,530.4696,DirectML
+dis-rsc,1,Scene51,6,41.4349,CPU + OpenCL
+dis-rsc,1,Scene51,7,34.7158,CPU + OpenCL
+dis-rsc,1,Scene51,8,35.9927,CPU + OpenCL
+dis-rsc,1,Scene51,9,36.1725,CPU + OpenCL
+dis-rsc,1,Scene51,10,39.6723,CPU + OpenCL
+dis-rsc,1,Scene51,11,37.7229,CPU + OpenCL
+dis-rsc,1,Scene51,12,38.1689,CPU + OpenCL
+dis-rsc,1,Scene51,13,33.726,CPU + OpenCL
+dis-rsc,1,Scene52,18,39.0379,CPU + OpenCL
+dis-rsc,1,Scene52,19,44.2864,CPU + OpenCL
+dis-rsc,1,Scene52,20,39.1674,CPU + OpenCL
+dis-rsc,1,Scene52,21,41.9666,CPU + OpenCL
+dis-rsc,1,Scene52,22,39.7303,CPU + OpenCL
+dis-rsc,1,Scene52,23,46.2379,CPU + OpenCL
+dis-rsc,1,Scene52,24,41.0236,CPU + OpenCL
+dis-rsc,1,Scene52,25,39.6648,CPU + OpenCL
+dis-rsc,1,Scene53,30,32.5373,CPU + OpenCL
+dis-rsc,1,Scene53,31,34.683,CPU + OpenCL
+dis-rsc,1,Scene53,32,42.2349,CPU + OpenCL
+dis-rsc,1,Scene53,33,33.919,CPU + OpenCL
+dis-rsc,1,Scene53,34,35.3817,CPU + OpenCL
+dis-rsc,1,Scene53,35,35.9557,CPU + OpenCL
+dis-rsc,1,Scene53,36,34.5108,CPU + OpenCL
+dis-rsc,1,Scene53,37,36.1146,CPU + OpenCL
+dis-rsc,1,Scene54,6,38.0634,CPU + OpenCL
+dis-rsc,1,Scene54,7,32.5624,CPU + OpenCL
+dis-rsc,1,Scene54,8,34.5448,CPU + OpenCL
+dis-rsc,1,Scene54,9,35.5729,CPU + OpenCL
+dis-rsc,1,Scene54,10,37.4065,CPU + OpenCL
+dis-rsc,1,Scene54,11,41.3631,CPU + OpenCL
+dis-rsc,1,Scene54,12,35.0068,CPU + OpenCL
+dis-rsc,1,Scene54,13,35.8234,CPU + OpenCL
+dis-rsc,1,Scene55,18,40.2378,CPU + OpenCL
+dis-rsc,1,Scene55,19,42.1415,CPU + OpenCL
+dis-rsc,1,Scene55,20,40.6837,CPU + OpenCL
+dis-rsc,1,Scene55,21,40.8387,CPU + OpenCL
+dis-rsc,1,Scene55,22,40.1971,CPU + OpenCL
+dis-rsc,1,Scene55,23,51.1325,CPU + OpenCL
+dis-rsc,1,Scene55,24,38.6984,CPU + OpenCL
+dis-rsc,1,Scene55,25,43.4583,CPU + OpenCL
+dis-rsc,1,Scene56,30,34.54,CPU + OpenCL
+dis-rsc,1,Scene56,31,43.0974,CPU + OpenCL
+dis-rsc,1,Scene56,32,34.6991,CPU + OpenCL
+dis-rsc,1,Scene56,33,37.9629,CPU + OpenCL
+dis-rsc,1,Scene56,34,36.3448,CPU + OpenCL
+dis-rsc,1,Scene56,35,42.4316,CPU + OpenCL
+dis-rsc,1,Scene56,36,35.5606,CPU + OpenCL
+dis-rsc,1,Scene56,37,36.627,CPU + OpenCL
+dis-rsc,1,Scene57,6,46.0561,CPU + OpenCL
+dis-rsc,1,Scene57,7,49.6499,CPU + OpenCL
+dis-rsc,1,Scene57,8,56.6089,CPU + OpenCL
+dis-rsc,1,Scene57,9,40.2885,CPU + OpenCL
+dis-rsc,1,Scene57,10,39.2633,CPU + OpenCL
+dis-rsc,1,Scene57,11,43.8229,CPU + OpenCL
+dis-rsc,1,Scene57,12,37.2735,CPU + OpenCL
+dis-rsc,1,Scene57,13,43.2885,CPU + OpenCL
+dis-rsc,1,Scene58,18,33.2404,CPU + OpenCL
+dis-rsc,1,Scene58,19,33.251,CPU + OpenCL
+dis-rsc,1,Scene58,20,37.2209,CPU + OpenCL
+dis-rsc,1,Scene58,21,36.6738,CPU + OpenCL
+dis-rsc,1,Scene58,22,45.3476,CPU + OpenCL
+dis-rsc,1,Scene58,23,33.5003,CPU + OpenCL
+dis-rsc,1,Scene58,24,42.9939,CPU + OpenCL
+dis-rsc,1,Scene58,25,38.5656,CPU + OpenCL
+dis-rsc,1,Scene59,30,33.969,CPU + OpenCL
+dis-rsc,1,Scene59,31,40.7465,CPU + OpenCL
+dis-rsc,1,Scene59,32,36.7069,CPU + OpenCL
+dis-rsc,1,Scene59,33,34.4321,CPU + OpenCL
+dis-rsc,1,Scene59,34,37.338,CPU + OpenCL
+dis-rsc,1,Scene59,35,34.1077,CPU + OpenCL
+dis-rsc,1,Scene59,36,35.2074,CPU + OpenCL
+dis-rsc,1,Scene59,37,32.8975,CPU + OpenCL
+dis-rsc,1,Scene60,6,37.5131,CPU + OpenCL
+dis-rsc,1,Scene60,7,41.6914,CPU + OpenCL
+dis-rsc,1,Scene60,8,36.2315,CPU + OpenCL
+dis-rsc,1,Scene60,9,33.892,CPU + OpenCL
+dis-rsc,1,Scene60,10,41.0043,CPU + OpenCL
+dis-rsc,1,Scene60,11,36.0976,CPU + OpenCL
+dis-rsc,1,Scene60,12,36.2331,CPU + OpenCL
+dis-rsc,1,Scene60,13,35.5139,CPU + OpenCL
+dis-rsc,1,Scene61,18,42.1841,CPU + OpenCL
+dis-rsc,1,Scene61,19,37.9725,CPU + OpenCL
+dis-rsc,1,Scene61,20,37.3555,CPU + OpenCL
+dis-rsc,1,Scene61,21,33.8296,CPU + OpenCL
+dis-rsc,1,Scene61,22,34.9493,CPU + OpenCL
+dis-rsc,1,Scene61,23,38.8118,CPU + OpenCL
+dis-rsc,1,Scene61,24,40.1075,CPU + OpenCL
+dis-rsc,1,Scene61,25,35.2692,CPU + OpenCL
+dis-rsc,1,Scene62,30,38.9742,CPU + OpenCL
+dis-rsc,1,Scene62,31,38.9141,CPU + OpenCL
+dis-rsc,1,Scene62,32,37.8584,CPU + OpenCL
+dis-rsc,1,Scene62,33,35.4212,CPU + OpenCL
+dis-rsc,1,Scene62,34,40.1856,CPU + OpenCL
+dis-rsc,1,Scene62,35,34.1198,CPU + OpenCL
+dis-rsc,1,Scene62,36,39.6315,CPU + OpenCL
+dis-rsc,1,Scene62,37,33.3308,CPU + OpenCL
+dis-rsc,1,Scene63,6,41.1684,CPU + OpenCL
+dis-rsc,1,Scene63,7,41.5166,CPU + OpenCL
+dis-rsc,1,Scene63,8,44.9912,CPU + OpenCL
+dis-rsc,1,Scene63,9,42.1739,CPU + OpenCL
+dis-rsc,1,Scene63,10,45.5658,CPU + OpenCL
+dis-rsc,1,Scene63,11,38.2068,CPU + OpenCL
+dis-rsc,1,Scene63,12,40.2112,CPU + OpenCL
+dis-rsc,1,Scene63,13,40.6434,CPU + OpenCL
+dis-rsc,1,Scene64,18,38.2481,CPU + OpenCL
+dis-rsc,1,Scene64,19,37.5388,CPU + OpenCL
+dis-rsc,1,Scene64,20,36.0359,CPU + OpenCL
+dis-rsc,1,Scene64,21,35.658,CPU + OpenCL
+dis-rsc,1,Scene64,22,38.4743,CPU + OpenCL
+dis-rsc,1,Scene64,23,37.8495,CPU + OpenCL
+dis-rsc,1,Scene64,24,42.0852,CPU + OpenCL
+dis-rsc,1,Scene64,25,36.9553,CPU + OpenCL
+dis-rsc,1,Scene65,30,39.8368,CPU + OpenCL
+dis-rsc,1,Scene65,31,44.42,CPU + OpenCL
+dis-rsc,1,Scene65,32,44.7816,CPU + OpenCL
+dis-rsc,1,Scene65,33,45.1494,CPU + OpenCL
+dis-rsc,1,Scene65,34,45.8163,CPU + OpenCL
+dis-rsc,1,Scene65,35,39.0168,CPU + OpenCL
+dis-rsc,1,Scene65,36,35.7834,CPU + OpenCL
+dis-rsc,1,Scene65,37,45.393,CPU + OpenCL
+grid24-rsc,1,Scene51,6,0.4097,CPU
+grid24-rsc,1,Scene51,7,0.3134,CPU
+grid24-rsc,1,Scene51,8,0.2463,CPU
+grid24-rsc,1,Scene51,9,0.2534,CPU
+grid24-rsc,1,Scene51,10,0.2676,CPU
+grid24-rsc,1,Scene51,11,0.2624,CPU
+grid24-rsc,1,Scene51,12,0.3572,CPU
+grid24-rsc,1,Scene51,13,0.2432,CPU
+grid24-rsc,1,Scene52,18,0.4078,CPU
+grid24-rsc,1,Scene52,19,0.3266,CPU
+grid24-rsc,1,Scene52,20,0.3567,CPU
+grid24-rsc,1,Scene52,21,0.3035,CPU
+grid24-rsc,1,Scene52,22,0.297,CPU
+grid24-rsc,1,Scene52,23,0.2281,CPU
+grid24-rsc,1,Scene52,24,0.2529,CPU
+grid24-rsc,1,Scene52,25,0.258,CPU
+grid24-rsc,1,Scene53,30,0.2484,CPU
+grid24-rsc,1,Scene53,31,0.2345,CPU
+grid24-rsc,1,Scene53,32,0.312,CPU
+grid24-rsc,1,Scene53,33,0.2845,CPU
+grid24-rsc,1,Scene53,34,0.2642,CPU
+grid24-rsc,1,Scene53,35,0.2417,CPU
+grid24-rsc,1,Scene53,36,0.259,CPU
+grid24-rsc,1,Scene53,37,0.2633,CPU
+grid24-rsc,1,Scene54,6,0.4122,CPU
+grid24-rsc,1,Scene54,7,0.2806,CPU
+grid24-rsc,1,Scene54,8,0.2764,CPU
+grid24-rsc,1,Scene54,9,0.2876,CPU
+grid24-rsc,1,Scene54,10,0.286,CPU
+grid24-rsc,1,Scene54,11,0.2073,CPU
+grid24-rsc,1,Scene54,12,0.2314,CPU
+grid24-rsc,1,Scene54,13,0.2838,CPU
+grid24-rsc,1,Scene55,18,0.4549,CPU
+grid24-rsc,1,Scene55,19,0.3809,CPU
+grid24-rsc,1,Scene55,20,0.3726,CPU
+grid24-rsc,1,Scene55,21,0.3239,CPU
+grid24-rsc,1,Scene55,22,0.3586,CPU
+grid24-rsc,1,Scene55,23,0.3891,CPU
+grid24-rsc,1,Scene55,24,0.2876,CPU
+grid24-rsc,1,Scene55,25,0.3302,CPU
+grid24-rsc,1,Scene56,30,0.4464,CPU
+grid24-rsc,1,Scene56,31,0.4076,CPU
+grid24-rsc,1,Scene56,32,0.3919,CPU
+grid24-rsc,1,Scene56,33,0.3632,CPU
+grid24-rsc,1,Scene56,34,0.3508,CPU
+grid24-rsc,1,Scene56,35,0.3177,CPU
+grid24-rsc,1,Scene56,36,0.3478,CPU
+grid24-rsc,1,Scene56,37,0.2765,CPU
+grid24-rsc,1,Scene57,6,0.378,CPU
+grid24-rsc,1,Scene57,7,0.3471,CPU
+grid24-rsc,1,Scene57,8,0.3204,CPU
+grid24-rsc,1,Scene57,9,0.2947,CPU
+grid24-rsc,1,Scene57,10,0.2999,CPU
+grid24-rsc,1,Scene57,11,0.3217,CPU
+grid24-rsc,1,Scene57,12,0.3009,CPU
+grid24-rsc,1,Scene57,13,0.2997,CPU
+grid24-rsc,1,Scene58,18,0.3775,CPU
+grid24-rsc,1,Scene58,19,0.4475,CPU
+grid24-rsc,1,Scene58,20,0.3386,CPU
+grid24-rsc,1,Scene58,21,0.3168,CPU
+grid24-rsc,1,Scene58,22,0.326,CPU
+grid24-rsc,1,Scene58,23,0.3599,CPU
+grid24-rsc,1,Scene58,24,0.3708,CPU
+grid24-rsc,1,Scene58,25,0.3754,CPU
+grid24-rsc,1,Scene59,30,0.323,CPU
+grid24-rsc,1,Scene59,31,0.3003,CPU
+grid24-rsc,1,Scene59,32,0.2487,CPU
+grid24-rsc,1,Scene59,33,0.2624,CPU
+grid24-rsc,1,Scene59,34,0.265,CPU
+grid24-rsc,1,Scene59,35,0.2526,CPU
+grid24-rsc,1,Scene59,36,0.2677,CPU
+grid24-rsc,1,Scene59,37,0.2612,CPU
+grid24-rsc,1,Scene60,6,0.4034,CPU
+grid24-rsc,1,Scene60,7,0.3165,CPU
+grid24-rsc,1,Scene60,8,0.2798,CPU
+grid24-rsc,1,Scene60,9,0.2622,CPU
+grid24-rsc,1,Scene60,10,0.3198,CPU
+grid24-rsc,1,Scene60,11,0.2909,CPU
+grid24-rsc,1,Scene60,12,0.2802,CPU
+grid24-rsc,1,Scene60,13,0.3074,CPU
+grid24-rsc,1,Scene61,18,0.4261,CPU
+grid24-rsc,1,Scene61,19,0.3505,CPU
+grid24-rsc,1,Scene61,20,0.3373,CPU
+grid24-rsc,1,Scene61,21,0.3538,CPU
+grid24-rsc,1,Scene61,22,0.278,CPU
+grid24-rsc,1,Scene61,23,0.3072,CPU
+grid24-rsc,1,Scene61,24,0.3876,CPU
+grid24-rsc,1,Scene61,25,0.4541,CPU
+grid24-rsc,1,Scene62,30,0.4134,CPU
+grid24-rsc,1,Scene62,31,0.3215,CPU
+grid24-rsc,1,Scene62,32,0.3024,CPU
+grid24-rsc,1,Scene62,33,0.3039,CPU
+grid24-rsc,1,Scene62,34,0.289,CPU
+grid24-rsc,1,Scene62,35,0.3367,CPU
+grid24-rsc,1,Scene62,36,0.3095,CPU
+grid24-rsc,1,Scene62,37,0.3055,CPU
+grid24-rsc,1,Scene63,6,0.5734,CPU
+grid24-rsc,1,Scene63,7,0.4272,CPU
+grid24-rsc,1,Scene63,8,0.4458,CPU
+grid24-rsc,1,Scene63,9,0.372,CPU
+grid24-rsc,1,Scene63,10,0.3884,CPU
+grid24-rsc,1,Scene63,11,0.3561,CPU
+grid24-rsc,1,Scene63,12,0.3067,CPU
+grid24-rsc,1,Scene63,13,0.2862,CPU
+grid24-rsc,1,Scene64,18,0.3607,CPU
+grid24-rsc,1,Scene64,19,0.3241,CPU
+grid24-rsc,1,Scene64,20,0.3262,CPU
+grid24-rsc,1,Scene64,21,0.2866,CPU
+grid24-rsc,1,Scene64,22,0.2725,CPU
+grid24-rsc,1,Scene64,23,0.2402,CPU
+grid24-rsc,1,Scene64,24,0.2569,CPU
+grid24-rsc,1,Scene64,25,0.2831,CPU
+grid24-rsc,1,Scene65,30,0.3399,CPU
+grid24-rsc,1,Scene65,31,0.4214,CPU
+grid24-rsc,1,Scene65,32,0.3495,CPU
+grid24-rsc,1,Scene65,33,0.3368,CPU
+grid24-rsc,1,Scene65,34,0.3336,CPU
+grid24-rsc,1,Scene65,35,0.3189,CPU
+grid24-rsc,1,Scene65,36,0.3099,CPU
+grid24-rsc,1,Scene65,37,0.3302,CPU
+grid24-rsc,2,Scene51,6,0.48,CPU
+grid24-rsc,2,Scene51,7,0.5701,CPU
+grid24-rsc,2,Scene51,8,0.4641,CPU
+grid24-rsc,2,Scene51,9,0.4418,CPU
+grid24-rsc,2,Scene51,10,0.4045,CPU
+grid24-rsc,2,Scene51,11,0.3884,CPU
+grid24-rsc,2,Scene51,12,0.3618,CPU
+grid24-rsc,2,Scene51,13,0.5117,CPU
+grid24-rsc,2,Scene52,18,0.4456,CPU
+grid24-rsc,2,Scene52,19,0.4398,CPU
+grid24-rsc,2,Scene52,20,0.32,CPU
+grid24-rsc,2,Scene52,21,0.2778,CPU
+grid24-rsc,2,Scene52,22,0.2962,CPU
+grid24-rsc,2,Scene52,23,0.2523,CPU
+grid24-rsc,2,Scene52,24,0.2714,CPU
+grid24-rsc,2,Scene52,25,0.2796,CPU
+grid24-rsc,2,Scene53,30,0.4068,CPU
+grid24-rsc,2,Scene53,31,0.4456,CPU
+grid24-rsc,2,Scene53,32,0.4099,CPU
+grid24-rsc,2,Scene53,33,0.398,CPU
+grid24-rsc,2,Scene53,34,0.3942,CPU
+grid24-rsc,2,Scene53,35,0.5201,CPU
+grid24-rsc,2,Scene53,36,0.4058,CPU
+grid24-rsc,2,Scene53,37,0.3522,CPU
+grid24-rsc,2,Scene54,6,0.428,CPU
+grid24-rsc,2,Scene54,7,0.4494,CPU
+grid24-rsc,2,Scene54,8,0.4279,CPU
+grid24-rsc,2,Scene54,9,0.3934,CPU
+grid24-rsc,2,Scene54,10,0.3038,CPU
+grid24-rsc,2,Scene54,11,0.2924,CPU
+grid24-rsc,2,Scene54,12,0.2999,CPU
+grid24-rsc,2,Scene54,13,0.2866,CPU
+grid24-rsc,2,Scene55,18,0.2841,CPU
+grid24-rsc,2,Scene55,19,0.2953,CPU
+grid24-rsc,2,Scene55,20,0.2287,CPU
+grid24-rsc,2,Scene55,21,0.2933,CPU
+grid24-rsc,2,Scene55,22,0.2908,CPU
+grid24-rsc,2,Scene55,23,0.2878,CPU
+grid24-rsc,2,Scene55,24,0.2773,CPU
+grid24-rsc,2,Scene55,25,0.2778,CPU
+grid24-rsc,2,Scene56,30,0.3512,CPU
+grid24-rsc,2,Scene56,31,0.3134,CPU
+grid24-rsc,2,Scene56,32,0.3221,CPU
+grid24-rsc,2,Scene56,33,0.3089,CPU
+grid24-rsc,2,Scene56,34,0.2845,CPU
+grid24-rsc,2,Scene56,35,0.2956,CPU
+grid24-rsc,2,Scene56,36,0.2924,CPU
+grid24-rsc,2,Scene56,37,0.314,CPU
+grid24-rsc,2,Scene57,6,0.3878,CPU
+grid24-rsc,2,Scene57,7,0.3078,CPU
+grid24-rsc,2,Scene57,8,0.3316,CPU
+grid24-rsc,2,Scene57,9,0.3011,CPU
+grid24-rsc,2,Scene57,10,0.3239,CPU
+grid24-rsc,2,Scene57,11,0.3272,CPU
+grid24-rsc,2,Scene57,12,0.295,CPU
+grid24-rsc,2,Scene57,13,0.2772,CPU
+grid24-rsc,2,Scene58,18,0.8049,CPU
+grid24-rsc,2,Scene58,19,0.575,CPU
+grid24-rsc,2,Scene58,20,0.515,CPU
+grid24-rsc,2,Scene58,21,0.4415,CPU
+grid24-rsc,2,Scene58,22,0.4273,CPU
+grid24-rsc,2,Scene58,23,0.4297,CPU
+grid24-rsc,2,Scene58,24,0.643,CPU
+grid24-rsc,2,Scene58,25,0.456,CPU
+grid24-rsc,2,Scene59,30,0.3887,CPU
+grid24-rsc,2,Scene59,31,0.3187,CPU
+grid24-rsc,2,Scene59,32,0.3549,CPU
+grid24-rsc,2,Scene59,33,0.2611,CPU
+grid24-rsc,2,Scene59,34,0.2762,CPU
+grid24-rsc,2,Scene59,35,0.2977,CPU
+grid24-rsc,2,Scene59,36,0.2903,CPU
+grid24-rsc,2,Scene59,37,0.2843,CPU
+grid24-rsc,2,Scene60,6,0.4309,CPU
+grid24-rsc,2,Scene60,7,0.4043,CPU
+grid24-rsc,2,Scene60,8,0.4262,CPU
+grid24-rsc,2,Scene60,9,0.3416,CPU
+grid24-rsc,2,Scene60,10,0.3586,CPU
+grid24-rsc,2,Scene60,11,0.3278,CPU
+grid24-rsc,2,Scene60,12,0.3631,CPU
+grid24-rsc,2,Scene60,13,0.3387,CPU
+grid24-rsc,2,Scene61,18,0.3056,CPU
+grid24-rsc,2,Scene61,19,0.3256,CPU
+grid24-rsc,2,Scene61,20,0.3048,CPU
+grid24-rsc,2,Scene61,21,0.2854,CPU
+grid24-rsc,2,Scene61,22,0.2509,CPU
+grid24-rsc,2,Scene61,23,0.3301,CPU
+grid24-rsc,2,Scene61,24,0.2915,CPU
+grid24-rsc,2,Scene61,25,0.2882,CPU
+grid24-rsc,2,Scene62,30,0.3191,CPU
+grid24-rsc,2,Scene62,31,0.332,CPU
+grid24-rsc,2,Scene62,32,0.3992,CPU
+grid24-rsc,2,Scene62,33,0.3687,CPU
+grid24-rsc,2,Scene62,34,0.4191,CPU
+grid24-rsc,2,Scene62,35,0.4574,CPU
+grid24-rsc,2,Scene62,36,0.3744,CPU
+grid24-rsc,2,Scene62,37,0.3337,CPU
+grid24-rsc,2,Scene63,6,0.3357,CPU
+grid24-rsc,2,Scene63,7,0.4174,CPU
+grid24-rsc,2,Scene63,8,0.3262,CPU
+grid24-rsc,2,Scene63,9,0.2912,CPU
+grid24-rsc,2,Scene63,10,0.3798,CPU
+grid24-rsc,2,Scene63,11,0.2809,CPU
+grid24-rsc,2,Scene63,12,0.3573,CPU
+grid24-rsc,2,Scene63,13,0.3681,CPU
+grid24-rsc,2,Scene64,18,0.3579,CPU
+grid24-rsc,2,Scene64,19,0.3694,CPU
+grid24-rsc,2,Scene64,20,0.2828,CPU
+grid24-rsc,2,Scene64,21,0.2736,CPU
+grid24-rsc,2,Scene64,22,0.2528,CPU
+grid24-rsc,2,Scene64,23,0.2764,CPU
+grid24-rsc,2,Scene64,24,0.2905,CPU
+grid24-rsc,2,Scene64,25,0.2461,CPU
+grid24-rsc,2,Scene65,30,0.3358,CPU
+grid24-rsc,2,Scene65,31,0.3087,CPU
+grid24-rsc,2,Scene65,32,0.267,CPU
+grid24-rsc,2,Scene65,33,0.2696,CPU
+grid24-rsc,2,Scene65,34,0.2802,CPU
+grid24-rsc,2,Scene65,35,0.2503,CPU
+grid24-rsc,2,Scene65,36,0.3053,CPU
+grid24-rsc,2,Scene65,37,0.3332,CPU
+grid24-rsc,3,Scene51,6,0.3054,CPU
+grid24-rsc,3,Scene51,7,0.3109,CPU
+grid24-rsc,3,Scene51,8,0.2958,CPU
+grid24-rsc,3,Scene51,9,0.3255,CPU
+grid24-rsc,3,Scene51,10,0.2708,CPU
+grid24-rsc,3,Scene51,11,0.2478,CPU
+grid24-rsc,3,Scene51,12,0.2593,CPU
+grid24-rsc,3,Scene51,13,0.2646,CPU
+grid24-rsc,3,Scene52,18,0.3166,CPU
+grid24-rsc,3,Scene52,19,0.3401,CPU
+grid24-rsc,3,Scene52,20,0.3044,CPU
+grid24-rsc,3,Scene52,21,0.2697,CPU
+grid24-rsc,3,Scene52,22,0.2431,CPU
+grid24-rsc,3,Scene52,23,0.2762,CPU
+grid24-rsc,3,Scene52,24,0.2337,CPU
+grid24-rsc,3,Scene52,25,0.2593,CPU
+grid24-rsc,3,Scene53,30,0.3707,CPU
+grid24-rsc,3,Scene53,31,0.3224,CPU
+grid24-rsc,3,Scene53,32,0.292,CPU
+grid24-rsc,3,Scene53,33,0.2738,CPU
+grid24-rsc,3,Scene53,34,0.2798,CPU
+grid24-rsc,3,Scene53,35,0.2561,CPU
+grid24-rsc,3,Scene53,36,0.2531,CPU
+grid24-rsc,3,Scene53,37,0.2682,CPU
+grid24-rsc,3,Scene54,6,0.276,CPU
+grid24-rsc,3,Scene54,7,0.2997,CPU
+grid24-rsc,3,Scene54,8,0.3038,CPU
+grid24-rsc,3,Scene54,9,0.2701,CPU
+grid24-rsc,3,Scene54,10,0.3096,CPU
+grid24-rsc,3,Scene54,11,0.3148,CPU
+grid24-rsc,3,Scene54,12,0.3158,CPU
+grid24-rsc,3,Scene54,13,0.3142,CPU
+grid24-rsc,3,Scene55,18,0.3976,CPU
+grid24-rsc,3,Scene55,19,0.2487,CPU
+grid24-rsc,3,Scene55,20,0.2264,CPU
+grid24-rsc,3,Scene55,21,0.2662,CPU
+grid24-rsc,3,Scene55,22,0.23,CPU
+grid24-rsc,3,Scene55,23,0.2514,CPU
+grid24-rsc,3,Scene55,24,0.2734,CPU
+grid24-rsc,3,Scene55,25,0.2807,CPU
+grid24-rsc,3,Scene56,30,0.3465,CPU
+grid24-rsc,3,Scene56,31,0.3022,CPU
+grid24-rsc,3,Scene56,32,0.3354,CPU
+grid24-rsc,3,Scene56,33,0.2668,CPU
+grid24-rsc,3,Scene56,34,0.3023,CPU
+grid24-rsc,3,Scene56,35,0.2687,CPU
+grid24-rsc,3,Scene56,36,0.3943,CPU
+grid24-rsc,3,Scene56,37,0.3032,CPU
+grid24-rsc,3,Scene57,6,0.4504,CPU
+grid24-rsc,3,Scene57,7,0.5294,CPU
+grid24-rsc,3,Scene57,8,0.4177,CPU
+grid24-rsc,3,Scene57,9,0.3335,CPU
+grid24-rsc,3,Scene57,10,0.3326,CPU
+grid24-rsc,3,Scene57,11,0.3188,CPU
+grid24-rsc,3,Scene57,12,0.3441,CPU
+grid24-rsc,3,Scene57,13,0.3194,CPU
+grid24-rsc,3,Scene58,18,0.3217,CPU
+grid24-rsc,3,Scene58,19,0.275,CPU
+grid24-rsc,3,Scene58,20,0.2781,CPU
+grid24-rsc,3,Scene58,21,0.2339,CPU
+grid24-rsc,3,Scene58,22,0.2505,CPU
+grid24-rsc,3,Scene58,23,0.2159,CPU
+grid24-rsc,3,Scene58,24,0.2123,CPU
+grid24-rsc,3,Scene58,25,0.2122,CPU
+grid24-rsc,3,Scene59,30,0.3911,CPU
+grid24-rsc,3,Scene59,31,0.3438,CPU
+grid24-rsc,3,Scene59,32,0.2843,CPU
+grid24-rsc,3,Scene59,33,0.2701,CPU
+grid24-rsc,3,Scene59,34,0.2742,CPU
+grid24-rsc,3,Scene59,35,0.2632,CPU
+grid24-rsc,3,Scene59,36,0.268,CPU
+grid24-rsc,3,Scene59,37,0.2736,CPU
+grid24-rsc,3,Scene60,6,0.3709,CPU
+grid24-rsc,3,Scene60,7,0.2888,CPU
+grid24-rsc,3,Scene60,8,0.2877,CPU
+grid24-rsc,3,Scene60,9,0.3035,CPU
+grid24-rsc,3,Scene60,10,0.3725,CPU
+grid24-rsc,3,Scene60,11,0.3385,CPU
+grid24-rsc,3,Scene60,12,0.4167,CPU
+grid24-rsc,3,Scene60,13,0.4341,CPU
+grid24-rsc,3,Scene61,18,0.4309,CPU
+grid24-rsc,3,Scene61,19,0.3983,CPU
+grid24-rsc,3,Scene61,20,0.3455,CPU
+grid24-rsc,3,Scene61,21,0.3501,CPU
+grid24-rsc,3,Scene61,22,0.3376,CPU
+grid24-rsc,3,Scene61,23,0.3549,CPU
+grid24-rsc,3,Scene61,24,0.3668,CPU
+grid24-rsc,3,Scene61,25,0.5413,CPU
+grid24-rsc,3,Scene62,30,0.339,CPU
+grid24-rsc,3,Scene62,31,0.2928,CPU
+grid24-rsc,3,Scene62,32,0.2765,CPU
+grid24-rsc,3,Scene62,33,0.2907,CPU
+grid24-rsc,3,Scene62,34,0.3155,CPU
+grid24-rsc,3,Scene62,35,0.3454,CPU
+grid24-rsc,3,Scene62,36,0.3085,CPU
+grid24-rsc,3,Scene62,37,0.2831,CPU
+grid24-rsc,3,Scene63,6,0.3346,CPU
+grid24-rsc,3,Scene63,7,0.3347,CPU
+grid24-rsc,3,Scene63,8,0.3044,CPU
+grid24-rsc,3,Scene63,9,0.2964,CPU
+grid24-rsc,3,Scene63,10,0.3041,CPU
+grid24-rsc,3,Scene63,11,0.2836,CPU
+grid24-rsc,3,Scene63,12,0.3222,CPU
+grid24-rsc,3,Scene63,13,0.2807,CPU
+grid24-rsc,3,Scene64,18,0.5179,CPU
+grid24-rsc,3,Scene64,19,0.469,CPU
+grid24-rsc,3,Scene64,20,0.4404,CPU
+grid24-rsc,3,Scene64,21,0.3557,CPU
+grid24-rsc,3,Scene64,22,0.257,CPU
+grid24-rsc,3,Scene64,23,0.2952,CPU
+grid24-rsc,3,Scene64,24,0.3856,CPU
+grid24-rsc,3,Scene64,25,0.481,CPU
+grid24-rsc,3,Scene65,30,0.3002,CPU
+grid24-rsc,3,Scene65,31,0.2743,CPU
+grid24-rsc,3,Scene65,32,0.2832,CPU
+grid24-rsc,3,Scene65,33,0.2598,CPU
+grid24-rsc,3,Scene65,34,0.2513,CPU
+grid24-rsc,3,Scene65,35,0.2547,CPU
+grid24-rsc,3,Scene65,36,0.2226,CPU
+grid24-rsc,3,Scene65,37,0.2232,CPU
+grid24-rsc,4,Scene51,6,0.3949,CPU
+grid24-rsc,4,Scene51,7,0.2596,CPU
+grid24-rsc,4,Scene51,8,0.318,CPU
+grid24-rsc,4,Scene51,9,0.4354,CPU
+grid24-rsc,4,Scene51,10,0.2808,CPU
+grid24-rsc,4,Scene51,11,0.227,CPU
+grid24-rsc,4,Scene51,12,0.2609,CPU
+grid24-rsc,4,Scene51,13,0.2625,CPU
+grid24-rsc,4,Scene52,18,0.3346,CPU
+grid24-rsc,4,Scene52,19,0.3409,CPU
+grid24-rsc,4,Scene52,20,0.3147,CPU
+grid24-rsc,4,Scene52,21,0.2906,CPU
+grid24-rsc,4,Scene52,22,0.2898,CPU
+grid24-rsc,4,Scene52,23,0.2934,CPU
+grid24-rsc,4,Scene52,24,0.2713,CPU
+grid24-rsc,4,Scene52,25,0.3299,CPU
+grid24-rsc,4,Scene53,30,0.4196,CPU
+grid24-rsc,4,Scene53,31,0.3878,CPU
+grid24-rsc,4,Scene53,32,0.4093,CPU
+grid24-rsc,4,Scene53,33,0.3535,CPU
+grid24-rsc,4,Scene53,34,0.5838,CPU
+grid24-rsc,4,Scene53,35,0.3192,CPU
+grid24-rsc,4,Scene53,36,0.4439,CPU
+grid24-rsc,4,Scene53,37,0.3093,CPU
+grid24-rsc,4,Scene54,6,0.3292,CPU
+grid24-rsc,4,Scene54,7,0.2842,CPU
+grid24-rsc,4,Scene54,8,0.2585,CPU
+grid24-rsc,4,Scene54,9,0.2795,CPU
+grid24-rsc,4,Scene54,10,0.3127,CPU
+grid24-rsc,4,Scene54,11,0.3124,CPU
+grid24-rsc,4,Scene54,12,0.2646,CPU
+grid24-rsc,4,Scene54,13,0.31,CPU
+grid24-rsc,4,Scene55,18,0.2803,CPU
+grid24-rsc,4,Scene55,19,0.2395,CPU
+grid24-rsc,4,Scene55,20,0.2611,CPU
+grid24-rsc,4,Scene55,21,0.2325,CPU
+grid24-rsc,4,Scene55,22,0.2777,CPU
+grid24-rsc,4,Scene55,23,0.2641,CPU
+grid24-rsc,4,Scene55,24,0.2147,CPU
+grid24-rsc,4,Scene55,25,0.2201,CPU
+grid24-rsc,4,Scene56,30,0.3602,CPU
+grid24-rsc,4,Scene56,31,0.4557,CPU
+grid24-rsc,4,Scene56,32,0.3259,CPU
+grid24-rsc,4,Scene56,33,0.2903,CPU
+grid24-rsc,4,Scene56,34,0.2897,CPU
+grid24-rsc,4,Scene56,35,0.28,CPU
+grid24-rsc,4,Scene56,36,0.2784,CPU
+grid24-rsc,4,Scene56,37,0.2745,CPU
+grid24-rsc,4,Scene57,6,0.3449,CPU
+grid24-rsc,4,Scene57,7,0.334,CPU
+grid24-rsc,4,Scene57,8,0.294,CPU
+grid24-rsc,4,Scene57,9,0.2817,CPU
+grid24-rsc,4,Scene57,10,0.2575,CPU
+grid24-rsc,4,Scene57,11,0.2532,CPU
+grid24-rsc,4,Scene57,12,0.2606,CPU
+grid24-rsc,4,Scene57,13,0.2354,CPU
+grid24-rsc,4,Scene58,18,0.3094,CPU
+grid24-rsc,4,Scene58,19,0.2643,CPU
+grid24-rsc,4,Scene58,20,0.3177,CPU
+grid24-rsc,4,Scene58,21,0.3017,CPU
+grid24-rsc,4,Scene58,22,0.2474,CPU
+grid24-rsc,4,Scene58,23,0.2499,CPU
+grid24-rsc,4,Scene58,24,0.2369,CPU
+grid24-rsc,4,Scene58,25,0.2537,CPU
+grid24-rsc,4,Scene59,30,0.2809,CPU
+grid24-rsc,4,Scene59,31,0.2405,CPU
+grid24-rsc,4,Scene59,32,0.2114,CPU
+grid24-rsc,4,Scene59,33,0.2116,CPU
+grid24-rsc,4,Scene59,34,0.2968,CPU
+grid24-rsc,4,Scene59,35,0.2635,CPU
+grid24-rsc,4,Scene59,36,0.2521,CPU
+grid24-rsc,4,Scene59,37,0.2627,CPU
+grid24-rsc,4,Scene60,6,0.2445,CPU
+grid24-rsc,4,Scene60,7,0.2377,CPU
+grid24-rsc,4,Scene60,8,0.2019,CPU
+grid24-rsc,4,Scene60,9,0.2033,CPU
+grid24-rsc,4,Scene60,10,0.21,CPU
+grid24-rsc,4,Scene60,11,0.2133,CPU
+grid24-rsc,4,Scene60,12,0.2071,CPU
+grid24-rsc,4,Scene60,13,0.2108,CPU
+grid24-rsc,4,Scene61,18,0.3653,CPU
+grid24-rsc,4,Scene61,19,0.359,CPU
+grid24-rsc,4,Scene61,20,0.3568,CPU
+grid24-rsc,4,Scene61,21,0.3165,CPU
+grid24-rsc,4,Scene61,22,0.2872,CPU
+grid24-rsc,4,Scene61,23,0.2846,CPU
+grid24-rsc,4,Scene61,24,0.2759,CPU
+grid24-rsc,4,Scene61,25,0.363,CPU
+grid24-rsc,4,Scene62,30,0.3689,CPU
+grid24-rsc,4,Scene62,31,0.3653,CPU
+grid24-rsc,4,Scene62,32,0.288,CPU
+grid24-rsc,4,Scene62,33,0.2826,CPU
+grid24-rsc,4,Scene62,34,0.3075,CPU
+grid24-rsc,4,Scene62,35,0.3091,CPU
+grid24-rsc,4,Scene62,36,0.2505,CPU
+grid24-rsc,4,Scene62,37,0.2713,CPU
+grid24-rsc,4,Scene63,6,0.5415,CPU
+grid24-rsc,4,Scene63,7,0.321,CPU
+grid24-rsc,4,Scene63,8,0.329,CPU
+grid24-rsc,4,Scene63,9,0.2843,CPU
+grid24-rsc,4,Scene63,10,0.3365,CPU
+grid24-rsc,4,Scene63,11,0.2595,CPU
+grid24-rsc,4,Scene63,12,0.3021,CPU
+grid24-rsc,4,Scene63,13,0.2701,CPU
+grid24-rsc,4,Scene64,18,0.3971,CPU
+grid24-rsc,4,Scene64,19,0.3542,CPU
+grid24-rsc,4,Scene64,20,0.3149,CPU
+grid24-rsc,4,Scene64,21,0.2938,CPU
+grid24-rsc,4,Scene64,22,0.338,CPU
+grid24-rsc,4,Scene64,23,0.3776,CPU
+grid24-rsc,4,Scene64,24,0.3361,CPU
+grid24-rsc,4,Scene64,25,0.2581,CPU
+grid24-rsc,4,Scene65,30,0.3641,CPU
+grid24-rsc,4,Scene65,31,0.3048,CPU
+grid24-rsc,4,Scene65,32,0.33,CPU
+grid24-rsc,4,Scene65,33,0.296,CPU
+grid24-rsc,4,Scene65,34,0.3037,CPU
+grid24-rsc,4,Scene65,35,0.2871,CPU
+grid24-rsc,4,Scene65,36,0.2781,CPU
+grid24-rsc,4,Scene65,37,0.2739,CPU

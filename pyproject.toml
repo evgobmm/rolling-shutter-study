@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rolling-shutter-study"
+version = "0.1.0"
+description = "Rolling shutter correction and BS-RSC evaluation"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "numpy==2.3.5",
+    "opencv-contrib-python==4.11.0.86",
+    "threadpoolctl==3.6.0",
+]
+
+[project.optional-dependencies]
+windows = ["onnxruntime-directml==1.22.0"]
+export = [
+    "torch==2.8.0",
+    "torchvision==0.23.0",
+    "onnx==1.17.0",
+    "einops==0.8.1",
+]
+notebooks = ["ipykernel==6.30.1", "nbclient==0.10.2"]
+training = ["scipy==1.16.3"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"rsc.methods" = ["parameters/*.npz", "native/*.c"]

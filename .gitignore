@@ -1,0 +1,8 @@
+/.venv/
+/assets/
+/data/
+/runs/
+/build/
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
